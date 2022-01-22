@@ -1,0 +1,20 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a66a1841b6735bc9fa4f9b8e6be08d05
+# Starting compiling UnityEngine.UI.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-13043794b18284c71b1b57b5719a84bc
+# Starting compiling Unity.Timeline.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0edb7bd0e52922fca99e01dbf82a9013
+# Starting compiling Unity.TextMeshPro.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3f141e183f38a8a5189e8e069c2298c1
+# Starting compiling UnityEngine.SpatialTracking.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2761ce7976a877999acd4feb45e3e3be
+# Starting compiling Unity.XR.Management.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7caf69c108f67993f89ea9126ffbc4b3
+# Starting compiling Unity.Subsystem.Registration.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a9a37a0916caec216adeae4e2cd470ab
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2f3cdd31c48c71475bc9327cec0bac74
+# Starting compiling Google.XR.Cardboard.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-69925fabc23ca6070af377ba0c6a929b
+# Starting compiling Assembly-CSharp.dll
+/home/maitrey/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ae1938aa53456dc80b0fe4e9f9a55aa6
