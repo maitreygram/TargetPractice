@@ -1,6 +1,11 @@
 Target Practice:
 
-The VR game that I have designed is a target practice simulator where the user can, with the push of a button, lauch a blue ball at a stationary target. The game is designed in 3D VR and thus the target can be found by moving the phone (and thus the head while wearing google cardboard). If a ball hits the target, then a score pops up above the target board. This score is on a scale of 0-10 and is 10 - distance of the ball from the center of the target. An additional part special about this development is that I used unity on Ubuntu 20 for the development which came with its own unique challenges that I had to resolve.
+The VR game that I have designed is a target practice simulator where the user can, with the push of a button, lauch a blue ball at a stationary target. 
+The game is designed in 3D VR and thus the target can be found by moving the phone (and thus the head while wearing google cardboard). If a ball hits the target, 
+then a score pops up above the target board. This score is on a scale of 0-10 and is 10 - distance of the ball from the center of the target. An additional part 
+special about this development is that I used unity on Ubuntu 20 for the development which came with its own unique challenges that I had to resolve.
+
+The final project apk is the file HelloCardboard/Builds/TargetCardboard1.apk
 
 The app is a game because it has the funadamental aspects usually found in games -
 1. A player - the user who wears the headset
